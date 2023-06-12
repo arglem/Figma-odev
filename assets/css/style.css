@@ -188,22 +188,15 @@ line-height: 48px;
   color: #fff;
   border: none;
   cursor: pointer;
+  border-radius:20% ;
   }
-  button[type="submit"]:hover {
-  background-color: #0056b3;
-  border-radius: 20%;
-  }
-  
+
   footer {
   display: flex;
   justify-content: center;
   flex-direction: row;
   }
-  
-  .alt2 {
-  display: flex;
-  }
-  
+
   .form {
   display: flex;
   align-items: end;
@@ -235,7 +228,3 @@ line-height: 48px;
   border: black;
   background: transparent;
   }
-  .form{
-  font-family: 'Montserrat';
-  }
-
